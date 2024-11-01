@@ -1,0 +1,15 @@
+.place__title {
+    width: 460px;
+    @media screen and (max-width: 1200px){
+        width: 440px;
+    }
+    @media screen and (max-width: 1024px){
+        width: 340px;
+        
+    }
+    @media screen and (max-width: 768px){
+        width: 320px;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}

@@ -1,0 +1,21 @@
+.cover__subtitle {
+    position: absolute;
+    top: 461px;
+    left: 412px;
+    right: 412px;
+    @media screen and (max-width: 1280px){
+        top: 411px;
+        left: 332px;
+        right: 332px;
+    }
+    @media screen and  (max-width: 1024px){
+        top: 331px;
+        left: 204px;
+        right: 204px;
+    }
+    @media screen and  (max-width: 768px){
+        top: 147px;
+        left: 16px;
+        right: 16px;
+    }
+}

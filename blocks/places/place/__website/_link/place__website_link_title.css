@@ -1,0 +1,14 @@
+.place__website_link_title {
+    bottom: 34px;
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+
+    color: #AAAAAA;
+
+
+}
